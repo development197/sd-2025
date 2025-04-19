@@ -70,7 +70,7 @@
 import app from './app'
 import { connectToDatabase } from './services/databaseService'
 
-const PORT = 3300
+const PORT = 5000
 // const SERVER_URL = 'https://ded6827.inmotionhosting.com'
 
 // const server = app.listen(PORT)
